@@ -1,5 +1,3 @@
-# MultiModal
-
 # 🍽️ Multimodal Calorie Prediction
 
 **Схема мультимодальной модели:**  
